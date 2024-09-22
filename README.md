@@ -1,7 +1,7 @@
 <p align="center"> Hey!! 👋 I am Avinash Gondela! </p>
 
 
-- 🔭 I’m currently majoring in Electronics and Instrumentation with a minor in Data Science at BITS PILANI, Hyderabad Campus.
+- 🔭 I have majored in Electronics and Instrumentation with a minor in Data Science at BITS PILANI, Hyderabad Campus.
 - 🌱 I’m currently learning software development and machine learning and also exploring different fields of Computer Science
 
 <p align="center"> Languages and Tools: </p>
