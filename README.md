@@ -1,8 +1,8 @@
 <p align="center"> Hey!! 👋 I am Avinash Gondela! </p>
 
-
+- 💻 Have 2 years of experience at Samsung Electronics where I work on AI and its optimization on AI accelerators by writing optimized algorithms.
 - 🔭 I have majored in Electronics and Instrumentation with a minor in Data Science at BITS PILANI, Hyderabad Campus.
-- 🌱 I’m currently learning software development and machine learning and also exploring different fields of Computer Science
+- 🌱 I’m currently learning software development and machine learning and also exploring different fields of Computer Science.
 
 <p align="center"> Languages and Tools: </p>
 
