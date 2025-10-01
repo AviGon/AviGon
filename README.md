@@ -1,7 +1,8 @@
 <p align="center"> Hey!! 👋 I am Avinash Gondela! </p>
 
-- 💻 Have 2 years of experience at Samsung Electronics where I worked on LLMs and its optimization on AI accelerators by writing optimized algorithms for DSP and NPU.
-- 🔭 I have majored in Electronics and Instrumentation with a minor in Data Science at BITS PILANI, Hyderabad Campus.
+- 🔭 Pursuing Masters in Electrical and Computer Engineering (Specialization in Machine Learning and Data Science) at the University of California San Diego.
+- 💻 Have 2 years of experience at Samsung Electronics where I worked on LLMs (RAGS and multimodals) and LLM, Deep Learning optimizations on AI accelerators by writing optimized algorithms for DSP and NPU.
+- 🔭 I have majored in Electronics and Instrumentation with a minor in Data Science at BITS PILANI and graduated in 2023.
 - 🌱 I’m currently learning software development and machine learning and also exploring different fields of Computer Science.
 
 <p align="center"> Languages and Tools: </p>
@@ -13,7 +14,7 @@
 
 
 - 📫 Let's Talk! Reach out to me at:   
-<a href="https://in.linkedin.com/in/avinash-gondela-b388751b1"><img src="https://user-images.githubusercontent.com/77155319/161927259-8c32158c-0931-41de-9d90-012616b9cd31.png" width="30" height="30">
+<a href="https://in.linkedin.com/in/avinash-gondela"><img src="https://user-images.githubusercontent.com/77155319/161927259-8c32158c-0931-41de-9d90-012616b9cd31.png" width="30" height="30">
   <a href="mailto: avi_gondela@yahoo.com"><img src="https://user-images.githubusercontent.com/77155319/161927500-48c05931-0544-4dcc-9333-d277e3f0737c.png" width="30" height="30">
 
     <br>
